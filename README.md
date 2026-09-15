@@ -36,7 +36,6 @@ AI-powered book recommendation application that helps users discover books based
 
 **Tech:** React / Next.js • Python • FastAPI • OpenAI • SQLite
 
-→ View Project
 
 ### 💰 Budget Tracker
 
@@ -67,4 +66,4 @@ Projects exploring natural language processing, computer vision, neural networks
 
 **Portfolio:** (https://akshara-sp.github.io)
 
-**GitHub:** github.com/akshara-sp
+**GitHub:** (github.com/akshara-sp)
