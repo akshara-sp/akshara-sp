@@ -42,14 +42,14 @@ I enjoy turning ideas into reliable, user-focused software and working across th
 **Cloud & DevOps :**
 - AWS
 - Docker
--  Kubernetes
--   Git
--   CI/CD
+- Kubernetes
+- Git
+- CI/CD
 
 **Testing :**
 - Selenium
--  PyTest
--   JUnit
+- PyTest
+- JUnit
 
 ## 🚀 Featured Projects
 
@@ -57,14 +57,14 @@ I enjoy turning ideas into reliable, user-focused software and working across th
 
 AI-powered book recommendation application that helps users discover books based on their interests and preferences.
 
-**Tech:** React / Next.js • Python • FastAPI • OpenAI • SQLite
+**Tech:** React / Next.js, Python, FastAPI, OpenAI, SQLite
 
 
 ### 💰 Budget Tracker
 
 Full-stack personal finance application for creating monthly budgets, tracking expenses, and visualizing spending.
 
-**Tech:** React • Node.js • Express • MongoDB
+**Tech:** React, Node.js, Express, MongoDB
 
 
 
@@ -72,7 +72,7 @@ Full-stack personal finance application for creating monthly budgets, tracking e
 
 Projects exploring natural language processing, computer vision, neural networks, and generative AI.
 
-**Tech:** Python • PyTorch / TensorFlow • scikit-learn
+**Tech:** Python, PyTorch / TensorFlow, scikit-learn
 
 
 ## 👩‍💻 What I'm Interested In
