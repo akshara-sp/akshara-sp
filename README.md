@@ -10,7 +10,7 @@ I enjoy turning ideas into reliable, user-focused software and working across th
 
 ## 🛠️ Technologies
 
-**Languages:**
+**Languages :**
   - Python
   - Java
   -  JavaScript
@@ -19,20 +19,37 @@ I enjoy turning ideas into reliable, user-focused software and working across th
   -   C++
   -   C#
 
-**Backend & Web**
-FastAPI • Spring Boot • Node.js • React • Next.js • REST APIs
+**Backend & Web :**
+- FastAPI
+- Spring Boot
+- Node.js
+- React
+- Next.js
+- REST APIs
 
-**Databases**
-MongoDB • MySQL • SQLite • Firebase
+**Databases :**
+- MongoDB
+-  MySQL
+-  SQLite
+-  Firebase
 
-**AI & Machine Learning**
-OpenAI APIs • LLM Applications • RAG • scikit-learn
+**AI & Machine Learning :**
+- OpenAI APIs
+- LLM Applications
+- RAG
+- scikit-learn
 
-**Cloud & DevOps**
-AWS • Docker • Kubernetes • Git • CI/CD
+**Cloud & DevOps :**
+- AWS
+- Docker
+-  Kubernetes
+-   Git
+-   CI/CD
 
-**Testing**
-Selenium • PyTest • JUnit
+**Testing :**
+- Selenium
+-  PyTest
+-   JUnit
 
 ## 🚀 Featured Projects
 
