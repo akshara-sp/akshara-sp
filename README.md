@@ -6,7 +6,7 @@
 
 I'm a Computer Science graduate with experience building full-stack applications, backend APIs, AI-powered tools, and automated testing solutions.
 
-I enjoy turning ideas into reliable, user-focused software and working across the stack — from backend services and APIs to modern web interfaces.
+I enjoy turning ideas into reliable, user-focused software and working across the stack-from backend services and APIs to modern web interfaces.
 
 ## 🛠️ Technologies
 
