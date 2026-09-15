@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Akshara 👋
+# I'm Akshara 👋
 
 💻 **Software Engineer | Backend & Full-Stack Developer | AI/ML Enthusiast**
 
@@ -44,7 +44,7 @@ Full-stack personal finance application for creating monthly budgets, tracking e
 
 **Tech:** React • Node.js • Express • MongoDB
 
-→ View Project
+
 
 ### 🤖 Machine Learning Projects
 
@@ -52,7 +52,6 @@ Projects exploring natural language processing, computer vision, neural networks
 
 **Tech:** Python • PyTorch / TensorFlow • scikit-learn
 
-→ View Projects
 
 ## 👩‍💻 What I'm Interested In
 
@@ -65,5 +64,7 @@ Projects exploring natural language processing, computer vision, neural networks
 ## 📫 Let's Connect
 
 **LinkedIn:** (https://www.linkedin.com/in/akshara-sivan-pillai/)
+
 **Portfolio:** (https://akshara-sp.github.io)
+
 **GitHub:** github.com/akshara-sp
