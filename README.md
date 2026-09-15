@@ -11,7 +11,13 @@ I enjoy turning ideas into reliable, user-focused software and working across th
 ## 🛠️ Technologies
 
 **Languages**
-Python • Java • JavaScript • TypeScript • SQL • C++ • C#
+  - Python
+  - Java
+  -  JavaScript
+  -  TypeScript
+  -   SQL
+  -   C++
+  -   C#
 
 **Backend & Web**
 FastAPI • Spring Boot • Node.js • React • Next.js • REST APIs
