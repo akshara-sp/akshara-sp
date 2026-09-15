@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Akshara 👋
+# I'm Akshara!!
 
 💻 **Software Engineer | Backend & Full-Stack Developer | AI/ML Enthusiast**
 
