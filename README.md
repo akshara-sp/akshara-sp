@@ -10,7 +10,7 @@ I enjoy turning ideas into reliable, user-focused software and working across th
 
 ## 🛠️ Technologies
 
-**Languages :**
+**Languages:**
   - Python
   - Java
   -  JavaScript
